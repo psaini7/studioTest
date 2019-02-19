@@ -6,9 +6,9 @@
   <geometry uuid="_sB-UITRIEem2aLhUg3Na3Q" deletable="false"
       name="root">
     <twoDElement xsi:type="comp:TwoDSVGImportFile" uuid="_l6amYDRQEem2aLhUg3Na3Q"
-        name="Interactive_SVG" checksum="d4d33e13d497d66bcaf2c3335e5ef528956bcc5f">
+        name="Interactive_SVG" checksum="888fba3b7cf5ecfd214f4d7c6bf51c6329f6b214">
       <translation uuid="_l6amYTRQEem2aLhUg3Na3Q"/>
-      <file href="../../model.build#_VJntQDRREem2aLhUg3Na3Q"/>
+      <file href="../../model.build#_7Rr0ADRSEemNT9BcTeuE4A"/>
     </twoDElement>
     <parentPlugs uuid="_sB-UIjRIEem2aLhUg3Na3Q" name="ParentPlug"/>
   </geometry>
