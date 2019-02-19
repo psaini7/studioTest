@@ -246,13 +246,23 @@
           <statusShow uuid="_QbrUwdEOEeeiAoe5mqAy-g"
               width="335">
             <statusDefs uuid="_QbrUwtEOEeeiAoe5mqAy-g"
-                name="Error" color="(255,255,255)" text="Oh no, something's wrong with this model. Please fix it."/>
+                name="Error">
+              <text uuid="_VG-KbTRDEem2aLhUg3Na3Q" value="Oh no, something's wrong with this model. Please fix it."/>
+              <color uuid="_VG-KbjRDEem2aLhUg3Na3Q"
+                  red="255" green="255" blue="255"/>
+            </statusDefs>
             <statusDefs uuid="_QbrUw9EOEeeiAoe5mqAy-g"
-                name="Working - No indicator" color="(255,255,255)"
-                text="" status="WORKING"/>
+                name="Working - No indicator" status="WORKING">
+              <text uuid="_VG-KcDRDEem2aLhUg3Na3Q" value=""/>
+              <color uuid="_VG-KcTRDEem2aLhUg3Na3Q"
+                  red="255" green="255" blue="255"/>
+            </statusDefs>
             <statusDefs uuid="_QbrUxNEOEeeiAoe5mqAy-g"
-                name="Ready_OK - No indicator" color="(255,255,255)"
-                text="" status="READY"/>
+                name="Ready_OK - No indicator" status="READY">
+              <text uuid="_VG-KczRDEem2aLhUg3Na3Q" value=""/>
+              <color uuid="_VG-KdDRDEem2aLhUg3Na3Q"
+                  red="255" green="255" blue="255"/>
+            </statusDefs>
           </statusShow>
         </items>
       </panelGroups>
@@ -348,8 +358,8 @@
     </panels>
   </guiUnits>
   <frame uuid="_g71an3CvEeSsYaj_bb2fSA" name="Frame"
-      title="Build Configurator" icon="customization/doNotDelete/Build.png"
-      height="600" width="900" defaultScreenLayout="_BldhsND-EeeiAoe5mqAy-g"
+      icon="customization/doNotDelete/Build.png" height="600"
+      width="900" defaultScreenLayout="_BldhsND-EeeiAoe5mqAy-g"
       minHeight="600" minWidth="900">
     <systemEventDialog uuid="_GDz3UKTqEea8d6P1JTl01w">
       <text uuid="_M4_PgvIjEeirbZ0W15jFTQ" value="Are you sure you want to close the Build configurator?"/>
@@ -361,6 +371,7 @@
     </progressindication>
     <backgroundColor uuid="_VhW-O062Eei0NfpTrkQidw"
         red="255" green="255" blue="255"/>
+    <title uuid="_VG-xejRDEem2aLhUg3Na3Q" value="Build Configurator"/>
   </frame>
   <tables uuid="_1se1sHAEEeSePcy3DK4xYQ" name="ImagesForInserterBar">
     <rows uuid="_GD1FdKTqEea8d6P1JTl01w" in="link_owner_component"
