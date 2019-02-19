@@ -77,6 +77,8 @@
       name="zoom-in.png" relativePath="graphics/zoom-in.png"/>
   <externalResources uuid="_JLnk0E7AEei0NfpTrkQidw"
       name="zoom-in_down.png" relativePath="graphics/zoom-in_down.png"/>
+  <externalResources uuid="_VJntQDRREem2aLhUg3Na3Q"
+      name="cleaning.svg" relativePath="graphics/cleaning.svg"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
   <guiModel href=".model/gui_model.xml#_GDdSAKTqEea8d6P1JTl01w"/>

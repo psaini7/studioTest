@@ -186,6 +186,7 @@
     <outTypeSet uuid="_GIHvn6TqEea8d6P1JTl01w" bitSet="458767"/>
   </tables>
   <tables uuid="_5tR-0DROEem2aLhUg3Na3Q" name="Extra_Data_Table">
+    <rows uuid="_D2EMsDRPEem2aLhUg3Na3Q" in="1" out="3"/>
     <rows uuid="_NAq7EDRPEemNT9BcTeuE4A" in="1" out="2"/>
     <inTypeSet uuid="_5tR-0zROEem2aLhUg3Na3Q" bitSet="458767"/>
     <outTypeSet uuid="_5tR-1DROEem2aLhUg3Na3Q" bitSet="458767"/>
