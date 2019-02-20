@@ -191,6 +191,11 @@
     <inTypeSet uuid="_5tR-0zROEem2aLhUg3Na3Q" bitSet="458767"/>
     <outTypeSet uuid="_5tR-1DROEem2aLhUg3Na3Q" bitSet="458767"/>
   </tables>
+  <tables uuid="_jre_sDULEemjO8IqhvYLYQ" name="Extra_Data_Table1">
+    <rows uuid="_lLuDYDULEemjO8IqhvYLYQ" in="1" out="2"/>
+    <inTypeSet uuid="_jre_szULEemjO8IqhvYLYQ" bitSet="458767"/>
+    <outTypeSet uuid="_jrfmwDULEemjO8IqhvYLYQ" bitSet="458767"/>
+  </tables>
   <modeldescription uuid="_GIIWoKTqEea8d6P1JTl01w" pmid="BuildModel">
     <version uuid="_GIJkwKTqEea8d6P1JTl01w" major="1"/>
   </modeldescription>
