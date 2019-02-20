@@ -33,10 +33,13 @@
       <path href="../model.build#_octfcGp3EeSSX_Brc-X50g"/>
     </imageStyles>
     <imageStyles uuid="_z5bTIDT5EemjO8IqhvYLYQ" name="marioStyle">
-      <path href="../model.build#_LCbWYDT3EemjO8IqhvYLYQ"/>
+      <path href="../model.build#_Bhh1oDT8EemE6pm1J0ViDQ"/>
     </imageStyles>
     <imageStyles uuid="_vG7zgDUEEemjO8IqhvYLYQ" name="wallpaperStyle">
       <path href="../model.build#_LCg18DT3EemjO8IqhvYLYQ"/>
+    </imageStyles>
+    <imageStyles uuid="_EByy8DT8EemE6pm1J0ViDQ" name="marioStyle">
+      <path href="../model.build#_Bhh1oDT8EemE6pm1J0ViDQ"/>
     </imageStyles>
     <itemStyles uuid="_yDmtsHAIEeSePcy3DK4xYQ" deletable="false"
         name="DefaultItemStyle" font="_3o-awHAIEeSePcy3DK4xYQ"
@@ -355,6 +358,8 @@
       <items xsi:type="gui:StandardItem" uuid="_Ng-2UtNgEee4Q7NokZIK1A"
           name="PopUp_Text" order="1" style="_hdKZoNErEeeGsJtGzNJHVg"
           varName="component_number_string" type="LABEL"/>
+      <items xsi:type="gui:Image" uuid="_H2ZF8DT8EemE6pm1J0ViDQ"
+          name="mario" style="_EByy8DT8EemE6pm1J0ViDQ"/>
     </panels>
     <panels uuid="_faAGUNNgEee4Q7NokZIK1A" name="Panel_PopUp_SubPart"
         style="_BkKnwNErEeeGsJtGzNJHVg" toa="part_of_component">
