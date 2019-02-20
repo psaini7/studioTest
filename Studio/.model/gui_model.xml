@@ -184,7 +184,7 @@
       <items xsi:type="gui:Image" uuid="_ySntYDT5EemjO8IqhvYLYQ"
           name="mario" style="_z5bTIDT5EemjO8IqhvYLYQ"/>
       <items xsi:type="gui:Image" uuid="_6ScCoDUEEemjO8IqhvYLYQ"
-          name="wallpaper" style="_vG7zgDUEEemjO8IqhvYLYQ"/>
+          name="wallpaper"/>
     </panels>
   </guiUnits>
   <guiUnits xsi:type="gui:GUIUnit" uuid="_RzV8sGq1EeSU5fRCDlCvNA"
