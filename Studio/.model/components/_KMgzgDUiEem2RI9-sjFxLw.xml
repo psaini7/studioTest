@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:ComponentTemplate xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_KMgzgDUiEem2RI9-sjFxLw"
     name="T1">
@@ -8,5 +7,4 @@
       name="root">
     <parentPlugs uuid="_KMgzgjUiEem2RI9-sjFxLw" name="ParentPlug"/>
   </geometry>
-  <componentsUsingMe xsi:type="comp:Component" href="_godbADREEem2aLhUg3Na3Q.xml#_godbADREEem2aLhUg3Na3Q"/>
 </comp:ComponentTemplate>
