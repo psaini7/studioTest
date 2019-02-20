@@ -32,6 +32,9 @@
     <imageStyles uuid="_ySA6gEljEeSsxfjC0m3AcA" name="DefaultLogo">
       <path href="../model.build#_octfcGp3EeSSX_Brc-X50g"/>
     </imageStyles>
+    <imageStyles uuid="_z5bTIDT5EemjO8IqhvYLYQ" name="marioStyle">
+      <path href="../model.build#_LCbWYDT3EemjO8IqhvYLYQ"/>
+    </imageStyles>
     <itemStyles uuid="_yDmtsHAIEeSePcy3DK4xYQ" deletable="false"
         name="DefaultItemStyle" font="_3o-awHAIEeSePcy3DK4xYQ"
         length="200">
@@ -151,7 +154,7 @@
       <panelGroups uuid="_46gR0tD_EeeiAoe5mqAy-g" name="Right"
           order="3">
         <items xsi:type="gui:Image" uuid="_8yAH0ND_EeeiAoe5mqAy-g"
-            name="logo" style="_ySA6gEljEeSsxfjC0m3AcA"/>
+            name="logo"/>
       </panelGroups>
     </panels>
   </guiUnits>
@@ -175,6 +178,8 @@
           type="INPUTFIELD">
         <text uuid="_M4-oYPIjEeirbZ0W15jFTQ" value="Width:"/>
       </items>
+      <items xsi:type="gui:Image" uuid="_ySntYDT5EemjO8IqhvYLYQ"
+          name="mario" style="_z5bTIDT5EemjO8IqhvYLYQ"/>
     </panels>
   </guiUnits>
   <guiUnits xsi:type="gui:GUIUnit" uuid="_RzV8sGq1EeSU5fRCDlCvNA"
