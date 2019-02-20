@@ -4,6 +4,13 @@
     xmlns:appl="http://com.virtubuild/schemas/appl.ecore"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_stbr8DRIEem2aLhUg3Na3Q" name="Component 3">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_8egtEDUOEemjO8IqhvYLYQ"
+      name="myVar" visibility="800">
+    <domain uuid="_8egtETUOEemjO8IqhvYLYQ" name="local"
+        visibility="300">
+      <typeSet uuid="_8egtEjUOEemjO8IqhvYLYQ" bitSet="393231"/>
+    </domain>
+  </variables>
   <geometry uuid="_stbr8zRIEem2aLhUg3Na3Q" deletable="false"
       name="root">
     <parentPlugs uuid="_stbr9DRIEem2aLhUg3Na3Q" name="ParentPlug"/>
