@@ -85,6 +85,12 @@
       name="cleaning.svg" relativePath="graphics/cleaning.svg"/>
   <externalResources uuid="_441zsDRaEem2aLhUg3Na3Q"
       name="method-draw-image.svg" relativePath="graphics/method-draw-image.svg"/>
+  <externalResources uuid="_Ol4-cDTpEemjO8IqhvYLYQ"
+      name="vttestmodel.vtz" relativePath="vtFiles/vttestmodel.vtz"/>
+  <externalResources uuid="_SsoKUDTpEemjO8IqhvYLYQ"
+      name="TMAX_XT.vtz" relativePath="vtFiles/TMAX_XT.vtz"/>
+  <externalResources uuid="_SszJcDTpEemjO8IqhvYLYQ"
+      name="TSHIRT_TSHIRT.vtz" relativePath="vtFiles/TSHIRT_TSHIRT.vtz"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
   <guiModel href=".model/gui_model.xml#_GDdSAKTqEea8d6P1JTl01w"/>
