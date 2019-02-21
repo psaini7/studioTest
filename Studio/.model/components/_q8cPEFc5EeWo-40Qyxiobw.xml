@@ -49,7 +49,7 @@
     </twoDElement>
     <units uuid="_fdGZwFdAEeWo-40Qyxiobw" name="move_next">
       <facets xsi:type="comp:GeoUnitLineJointFacet"
-          uuid="_GDCbQKTqEea8d6P1JTl01w" variable="width">
+          uuid="_GDCbQKTqEea8d6P1JTl01w" variable="height">
         <vector xsi:type="appl:Coordinate3D" uuid="_Vhwmqk62Eei0NfpTrkQidw"
             x="1.0"/>
       </facets>
