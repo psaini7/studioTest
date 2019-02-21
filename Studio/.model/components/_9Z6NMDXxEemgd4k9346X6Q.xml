@@ -7,7 +7,7 @@
       name="root">
     <parentPlugs uuid="_9Z6NMjXxEemgd4k9346X6Q" name="ParentPlug"/>
   </geometry>
-  <roles uuid="_M5kRwDX1Eemgd4k9346X6Q" name="R">
+  <roles uuid="_M5kRwDX1Eemgd4k9346X6Q" name="Role_3">
     <facets xsi:type="comp:PlugFacet" uuid="_M5kRzDX1Eemgd4k9346X6Q"/>
     <domain uuid="_M5kRwTX1Eemgd4k9346X6Q" name="local"
         visibility="300">
@@ -18,5 +18,5 @@
       </values>
     </domain>
   </roles>
-  <displayName uuid="_9Z6NMzXxEemgd4k9346X6Q" value=""/>
+  <displayName uuid="_9Z6NMzXxEemgd4k9346X6Q"/>
 </comp:Component>
