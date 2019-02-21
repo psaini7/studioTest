@@ -101,7 +101,7 @@
       name="brothersgas.jpg" relativePath="graphics/brothersgas.jpg"/>
   <externalResources uuid="_2VVMoDXwEemTprXnYuNp2w"
       name="wizard-top-55.bmp" relativePath="binaryRes/wizard-top-55.bmp"/>
-  <externalResources uuid="_Xrnb4DXxEemTprXnYuNp2w"
+  <externalResources uuid="__sSfgDXxEemgd4k9346X6Q"
       name="wizard-step1-328.bmp" relativePath="binaryRes/wizard-step1-328.bmp"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
