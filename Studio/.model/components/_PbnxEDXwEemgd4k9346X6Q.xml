@@ -6,5 +6,5 @@
       name="root">
     <parentPlugs uuid="_PbnxEjXwEemgd4k9346X6Q" name="ParentPlug"/>
   </geometry>
-  <displayName uuid="_PbnxEzXwEemgd4k9346X6Q"/>
+  <displayName uuid="_PbnxEzXwEemgd4k9346X6Q" value="comp2"/>
 </comp:Component>
