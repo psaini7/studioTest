@@ -101,7 +101,7 @@
       name="brothersgas.jpg" relativePath="graphics/brothersgas.jpg"/>
   <externalResources uuid="_kTseEDXuEemgd4k9346X6Q"
       name="LauncherSetup1.4.0.exe" relativePath="binaryRes/LauncherSetup1.4.0.exe"/>
-  <externalResources uuid="_zUiKkDXvEemTprXnYuNp2w"
+  <externalResources uuid="_AgoYcDXwEemgd4k9346X6Q"
       name="wizard-step1-164.bmp" relativePath="binaryRes/wizard-step1-164.bmp"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
