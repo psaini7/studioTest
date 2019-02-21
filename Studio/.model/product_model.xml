@@ -49,6 +49,7 @@
         visibility="300">
       <displayName uuid="_7G4UETXEEemTprXnYuNp2w"/>
     </values>
+    <variables xsi:type="comp:DeclaredVariable" href="world.xml#_MFkPoDRNEem2aLhUg3Na3Q"/>
   </domains>
   <domains uuid="_R11_UDXFEemTprXnYuNp2w" name="GD1">
     <typeSet uuid="_R11_UjXFEemTprXnYuNp2w" bitSet="458767"/>
@@ -60,7 +61,6 @@
         visibility="300">
       <displayName uuid="_R11_WDXFEemTprXnYuNp2w"/>
     </values>
-    <variables xsi:type="comp:DeclaredVariable" href="world.xml#_MFkPoDRNEem2aLhUg3Na3Q"/>
   </domains>
   <domains uuid="_SHWmEDXFEemTprXnYuNp2w" name="GD2">
     <typeSet uuid="_SHWmEjXFEemTprXnYuNp2w" bitSet="458767"/>
