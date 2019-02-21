@@ -29,14 +29,14 @@
   </geometry>
   <roles uuid="_jjN-wFc5EeWo-40Qyxiobw" name="subLink"
       initValue="NONE" public="false" type="SUBLINK"
-      components="link_component, NONE, " lineInsertVariable="true">
+      components="link_component1, NONE," lineInsertVariable="true">
     <facets xsi:type="comp:LineControllerFacet" uuid="_GC6fcKTqEea8d6P1JTl01w"/>
     <facets xsi:type="comp:PlugFacet" uuid="_GC7GgKTqEea8d6P1JTl01w"
         position="(0,0,40)"/>
     <domain uuid="_jjN-wVc5EeWo-40Qyxiobw" name="local"
         visibility="300">
       <typeSet uuid="_GC7tkqTqEea8d6P1JTl01w" bitSet="65536"/>
-      <values uuid="_vnea0Fc5EeWo-40Qyxiobw" name="link_component"
+      <values uuid="_vnea0Fc5EeWo-40Qyxiobw" name="link_component1"
           visibility="300">
         <displayName uuid="_M5u2M_IjEeirbZ0W15jFTQ"/>
       </values>
