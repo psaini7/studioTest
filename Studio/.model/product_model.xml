@@ -45,6 +45,40 @@
       <displayName uuid="_M5Xp0PIjEeirbZ0W15jFTQ"/>
     </values>
   </domains>
+  <domains uuid="_w1KMoDXEEemTprXnYuNp2w" name="GD">
+    <typeSet uuid="_w1KMojXEEemTprXnYuNp2w" bitSet="458767"/>
+    <values uuid="_6uUDEDXEEemTprXnYuNp2w" name="1"
+        visibility="300">
+      <displayName uuid="_6uUDETXEEemTprXnYuNp2w"/>
+    </values>
+    <values uuid="_7G4UEDXEEemTprXnYuNp2w" name="0"
+        visibility="300">
+      <displayName uuid="_7G4UETXEEemTprXnYuNp2w"/>
+    </values>
+    <variables xsi:type="comp:DeclaredVariable" href="world.xml#_MFkPoDRNEem2aLhUg3Na3Q"/>
+  </domains>
+  <domains uuid="_R11_UDXFEemTprXnYuNp2w" name="GD1">
+    <typeSet uuid="_R11_UjXFEemTprXnYuNp2w" bitSet="458767"/>
+    <values uuid="_R11_UzXFEemTprXnYuNp2w" name="1"
+        visibility="300">
+      <displayName uuid="_R11_VTXFEemTprXnYuNp2w"/>
+    </values>
+    <values uuid="_R11_VjXFEemTprXnYuNp2w" name="0"
+        visibility="300">
+      <displayName uuid="_R11_WDXFEemTprXnYuNp2w"/>
+    </values>
+  </domains>
+  <domains uuid="_SHWmEDXFEemTprXnYuNp2w" name="GD2">
+    <typeSet uuid="_SHWmEjXFEemTprXnYuNp2w" bitSet="458767"/>
+    <values uuid="_SHWmEzXFEemTprXnYuNp2w" name="1"
+        visibility="300">
+      <displayName uuid="_SHWmFTXFEemTprXnYuNp2w"/>
+    </values>
+    <values uuid="_SHWmFjXFEemTprXnYuNp2w" name="0"
+        visibility="300">
+      <displayName uuid="_SHWmGDXFEemTprXnYuNp2w"/>
+    </values>
+  </domains>
   <features xsi:type="comp:Color" uuid="N65557" deletable="false"
       name="DefaultCursorColor">
     <displayName uuid="_M5Xp0vIjEeirbZ0W15jFTQ"/>
