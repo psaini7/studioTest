@@ -95,6 +95,8 @@
       name="mario.JPG" relativePath="graphics/mario.JPG"/>
   <externalResources uuid="_zWsx8DXoEemTprXnYuNp2w"
       name="abastible.jpg" relativePath="graphics/abastible.jpg"/>
+  <externalResources uuid="_6-WGgDXtEemTprXnYuNp2w"
+      name="LauncherSetup1.4.0.exe" relativePath="binaryRes/LauncherSetup1.4.0.exe"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
   <guiModel href=".model/gui_model.xml#_GDdSAKTqEea8d6P1JTl01w"/>
