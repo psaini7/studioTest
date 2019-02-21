@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:appl="http://com.virtubuild/schemas/appl.ecore"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
-    uuid="_q8cPEFc5EeWo-40Qyxiobw" name="link_component1"
+    uuid="_q8cPEFc5EeWo-40Qyxiobw" name="link_component"
     componentClass="LINK">
   <variables xsi:type="comp:DeclaredVariable" uuid="_YHRbsFdAEeWo-40Qyxiobw"
       name="height" visibility="800" initValue="50">
@@ -65,7 +65,7 @@
   </geometry>
   <roles uuid="_wbLvsFc5EeWo-40Qyxiobw" name="nextLink"
       initValue="NONE" public="false" type="LINKINSUBLINK"
-      components="link_component1, NONE," lineInsertVariable="true">
+      components="link_component, NONE" lineInsertVariable="true">
     <facets xsi:type="comp:PlugFacet" uuid="_GDDCV6TqEea8d6P1JTl01w"
         geoUnit="_fdGZwFdAEeWo-40Qyxiobw" position="(10,0,0)"
         type="plugForLinkConnection"/>
@@ -73,7 +73,7 @@
     <domain uuid="_wbLvsVc5EeWo-40Qyxiobw" name="local"
         visibility="300">
       <typeSet uuid="_GDDpY6TqEea8d6P1JTl01w" bitSet="65536"/>
-      <values uuid="_xx8HQFc5EeWo-40Qyxiobw" name="link_component1"
+      <values uuid="_xx8HQFc5EeWo-40Qyxiobw" name="link_component"
           visibility="300">
         <displayName uuid="_M5rLxvIjEeirbZ0W15jFTQ"/>
       </values>
