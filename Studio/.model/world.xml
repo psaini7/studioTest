@@ -21,7 +21,7 @@
       name="mitVar" visibility="800">
     <domain uuid="_Agg1sTaKEemFKrRqdK1sAg" name="local"
         visibility="300">
-      <typeSet uuid="_Agg1sjaKEemFKrRqdK1sAg" bitSet="393231"/>
+      <typeSet uuid="_Agg1sjaKEemFKrRqdK1sAg" bitSet="393217"/>
     </domain>
   </variables>
   <role uuid="_qucXoHAAEeSk24oMIozLgA" name="insertfree"
