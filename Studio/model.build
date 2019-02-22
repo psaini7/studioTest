@@ -93,8 +93,6 @@
       name="TSHIRT_TSHIRT.vtz" relativePath="vtFiles/TSHIRT_TSHIRT.vtz"/>
   <externalResources uuid="_Bhh1oDT8EemE6pm1J0ViDQ"
       name="mario.JPG" relativePath="graphics/mario.JPG"/>
-  <externalResources uuid="_dl2J8DaGEem5XINhsWr51A"
-      name="wizard-step1-328.png" relativePath="graphicsBin/wizard-step1-328.png"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
   <guiModel href=".model/gui_model.xml#_GDdSAKTqEea8d6P1JTl01w"/>
