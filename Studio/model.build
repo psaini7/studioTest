@@ -93,12 +93,8 @@
       name="TSHIRT_TSHIRT.vtz" relativePath="vtFiles/TSHIRT_TSHIRT.vtz"/>
   <externalResources uuid="_Bhh1oDT8EemE6pm1J0ViDQ"
       name="mario.JPG" relativePath="graphics/mario.JPG"/>
-  <externalResources uuid="_2VVMoDXwEemTprXnYuNp2w"
-      name="wizard-top-55.bmp" relativePath="binaryRes/wizard-top-55.bmp"/>
-  <externalResources uuid="_jPn1IDXyEemTprXnYuNp2w"
-      name="wizard-step1-328.bmp" relativePath="binaryRes/wizard-step1-328.bmp"/>
-  <externalResources uuid="_Wf2twDZ9Eem40swKj4V8Mg"
-      name="wizard-step1-328.png" relativePath="graphicsFolder/wizard-step1-328.png"/>
+  <externalResources uuid="_dl2J8DaGEem5XINhsWr51A"
+      name="wizard-step1-328.png" relativePath="graphicsBin/wizard-step1-328.png"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
   <guiModel href=".model/gui_model.xml#_GDdSAKTqEea8d6P1JTl01w"/>
