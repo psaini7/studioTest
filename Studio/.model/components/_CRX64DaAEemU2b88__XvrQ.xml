@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
+    uuid="_CRX64DaAEemU2b88__XvrQ" name="Component61B">
+  <geometry uuid="_CRX64TaAEemU2b88__XvrQ" deletable="false"
+      name="root">
+    <parentPlugs uuid="_CRX64jaAEemU2b88__XvrQ" name="ParentPlug"/>
+  </geometry>
+  <displayName uuid="_CRX64zaAEemU2b88__XvrQ"/>
+</comp:Component>
