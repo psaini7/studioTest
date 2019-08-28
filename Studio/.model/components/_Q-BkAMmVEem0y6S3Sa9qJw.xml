@@ -11,18 +11,20 @@
       <columns uuid="_UPoesMmVEem0y6S3Sa9qJw" name="cells"
           visibility="100" databaseAlias="Table_Column">
         <cells uuid="_WgB0AMmVEem0y6S3Sa9qJw" value="a"/>
-        <cells uuid="_WtBuMMmVEem0y6S3Sa9qJw" value="b"/>
         <cells uuid="_WysRUMmVEem0y6S3Sa9qJw" value="c"/>
         <cells uuid="_W-pCoMmVEem0y6S3Sa9qJw" value="d"/>
+        <cells uuid="_3sgnAMmVEem0y6S3Sa9qJw" value="f"/>
         <cells uuid="_XGmEwMmVEem0y6S3Sa9qJw" value="e"/>
+        <cells uuid="_3jJ2sMmVEem0y6S3Sa9qJw" value=""/>
       </columns>
       <columns uuid="_VxtVcMmVEem0y6S3Sa9qJw" name="numbers"
           visibility="100" databaseAlias="Table_Column">
         <cells uuid="_WgB0AcmVEem0y6S3Sa9qJw" value="1"/>
-        <cells uuid="_WtBuMcmVEem0y6S3Sa9qJw" value="2"/>
         <cells uuid="_WysRUcmVEem0y6S3Sa9qJw" value="3"/>
-        <cells uuid="_W-ppsMmVEem0y6S3Sa9qJw" value="4"/>
+        <cells uuid="_W-ppsMmVEem0y6S3Sa9qJw" value="7"/>
+        <cells uuid="_3sgnAcmVEem0y6S3Sa9qJw" value="6"/>
         <cells uuid="_XGmr0MmVEem0y6S3Sa9qJw" value="5"/>
+        <cells uuid="_3jJ2scmVEem0y6S3Sa9qJw" value=""/>
       </columns>
     </children>
   </logic>
