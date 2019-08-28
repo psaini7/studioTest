@@ -69,11 +69,17 @@
     <stateShowerStyles uuid="_eTiFMG_3EeSb6NXyjhnDPg"
         name="DefaultStateShowerStyle" enableUnset="true">
       <missingImage href="../model.build#_vhfwkG_4EeSb6NXyjhnDPg"/>
-      <notUserSetLockImage href="../model.build#_sjyCQG_4EeSb6NXyjhnDPg"/>
-      <notUserSetUnlockImage href="../model.build#_vhfwkG_4EeSb6NXyjhnDPg"/>
       <userSetLockImage href="../model.build#_vA6MAG_4EeSb6NXyjhnDPg"/>
       <userSetUnlockImage href="../model.build#_r8gm4G_4EeSb6NXyjhnDPg"/>
       <unsetImage href="../model.build#_2apLwCdCEeahG-Pj7x0wPA"/>
+      <initLockImage href="../model.build#_sjyCQG_4EeSb6NXyjhnDPg"/>
+      <initUnlockImage href="../model.build#_vhfwkG_4EeSb6NXyjhnDPg"/>
+      <consequenceLockImage href="../model.build#_sjyCQG_4EeSb6NXyjhnDPg"/>
+      <consequenceUnlockImage href="../model.build#_vhfwkG_4EeSb6NXyjhnDPg"/>
+      <selectedLockImage href="../model.build#_sjyCQG_4EeSb6NXyjhnDPg"/>
+      <selectedUnlockImage href="../model.build#_vhfwkG_4EeSb6NXyjhnDPg"/>
+      <systemLockImage href="../model.build#_sjyCQG_4EeSb6NXyjhnDPg"/>
+      <systemUnlockImage href="../model.build#_vhfwkG_4EeSb6NXyjhnDPg"/>
     </stateShowerStyles>
     <buttonStyles uuid="_3QgI8bbqEeK305n3PlGMhg" name="DefaultButtonStyleImage"/>
     <buttonStyles uuid="_Wgat8a-3EeOhZfF6nj1a5w" name="DefaultButtonStyleLAF"
@@ -126,9 +132,6 @@
     <tabStyles uuid="_wHX3UGpyEeSfCJnJCtaXOA" name="DefaultTabStyle"
         nonSelectedFont="_lKkykGpyEeSfCJnJCtaXOA" selectedFont="_lKkykGpyEeSfCJnJCtaXOA"
         textplacement="8,8">
-      <startImage href="../model.build#_Zq_D0Gq0EeSf2roTWK8_Lg"/>
-      <fillerImage href="../model.build#_X8JjcGq0EeSf2roTWK8_Lg"/>
-      <endImage href="../model.build#_XEvaUGq0EeSf2roTWK8_Lg"/>
       <selectedImage href="../model.build#_Y66RwGq0EeSf2roTWK8_Lg"/>
       <nonSelectedImage href="../model.build#_aWxLwGq0EeSf2roTWK8_Lg"/>
       <disabledImage href="../model.build#_WP5dAGq0EeSf2roTWK8_Lg"/>
@@ -136,15 +139,22 @@
     <tabStyles uuid="_wXvOkGpyEeSfCJnJCtaXOA" name="DefaultTabStyleSub"
         nonSelectedFont="_ndmlIGpyEeSfCJnJCtaXOA" selectedFont="_ndmlIGpyEeSfCJnJCtaXOA"
         textplacement="8,8">
-      <startImage href="../model.build#_BfR4UGq1EeSU5fRCDlCvNA"/>
-      <fillerImage href="../model.build#_AQBP4Gq1EeSU5fRCDlCvNA"/>
-      <endImage href="../model.build#__rY40Gq0EeSU5fRCDlCvNA"/>
       <selectedImage href="../model.build#_A6kBsGq1EeSU5fRCDlCvNA"/>
       <nonSelectedImage href="../model.build#_CLWUIGq1EeSU5fRCDlCvNA"/>
       <disabledImage href="../model.build#__DzUYGq0EeSU5fRCDlCvNA"/>
     </tabStyles>
     <unitConversionStyles uuid="_FNWCcElsEeSga5qFy3girQ"
         name="mm" pattern="#" postfix="mm" prefix=""/>
+    <tabPanelStyles uuid="_s7cGmMmUEem0y6S3Sa9qJw" name="DefaultTabStyleSub_newTabPanelStyle">
+      <startImage href="../model.build#_BfR4UGq1EeSU5fRCDlCvNA"/>
+      <fillerImage href="../model.build#_AQBP4Gq1EeSU5fRCDlCvNA"/>
+      <endImage href="../model.build#__rY40Gq0EeSU5fRCDlCvNA"/>
+    </tabPanelStyles>
+    <tabPanelStyles uuid="_s7cGnMmUEem0y6S3Sa9qJw" name="DefaultTabStyle_newTabPanelStyle">
+      <startImage href="../model.build#_Zq_D0Gq0EeSf2roTWK8_Lg"/>
+      <fillerImage href="../model.build#_X8JjcGq0EeSf2roTWK8_Lg"/>
+      <endImage href="../model.build#_XEvaUGq0EeSf2roTWK8_Lg"/>
+    </tabPanelStyles>
   </style>
   <guiUnits xsi:type="gui:GUIUnit" uuid="_2sAOkbcHEeKEW-Ajb6cWbQ"
       name="TopBar" unitType="SINGLEPANEL" initialPanel="_-yLEcbcHEeKEW-Ajb6cWbQ">
@@ -162,7 +172,10 @@
     </panels>
   </guiUnits>
   <guiUnits xsi:type="gui:ViewerGUIUnit" uuid="_mc-ZMbcdEeKEW-Ajb6cWbQ"
-      name="Viewer"/>
+      name="Viewer">
+    <bgColor uuid="_s7cGp8mUEem0y6S3Sa9qJw" red="255"
+        green="255" blue="255"/>
+  </guiUnits>
   <guiUnits xsi:type="gui:GUIUnit" uuid="_HuNhEa-7EeOhZfF6nj1a5w"
       name="Settings" unitType="SINGLEPANEL" initialPanel="_NI2k0a-7EeOhZfF6nj1a5w">
     <panels uuid="_NI2k0a-7EeOhZfF6nj1a5w" name="init"

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:array="http://virtubuil.com/schemas/array.ecore"
+    xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
+    uuid="_Q-BkAMmVEem0y6S3Sa9qJw" name="C1">
+  <logic uuid="_SY6NoMmVEem0y6S3Sa9qJw" name="Logic_Rules"
+      visibility="800">
+    <children xsi:type="array:TableRelation" uuid="_SvfhoMmVEem0y6S3Sa9qJw"
+        name="Table_Relation" visibility="800">
+      <columns uuid="_UPoesMmVEem0y6S3Sa9qJw" name="cells"
+          visibility="100" databaseAlias="Table_Column">
+        <cells uuid="_WgB0AMmVEem0y6S3Sa9qJw" value="a"/>
+        <cells uuid="_WtBuMMmVEem0y6S3Sa9qJw" value="b"/>
+        <cells uuid="_WysRUMmVEem0y6S3Sa9qJw" value="c"/>
+        <cells uuid="_W-pCoMmVEem0y6S3Sa9qJw" value="d"/>
+        <cells uuid="_XGmEwMmVEem0y6S3Sa9qJw" value="e"/>
+      </columns>
+      <columns uuid="_VxtVcMmVEem0y6S3Sa9qJw" name="numbers"
+          visibility="100" databaseAlias="Table_Column">
+        <cells uuid="_WgB0AcmVEem0y6S3Sa9qJw" value="1"/>
+        <cells uuid="_WtBuMcmVEem0y6S3Sa9qJw" value="2"/>
+        <cells uuid="_WysRUcmVEem0y6S3Sa9qJw" value="3"/>
+        <cells uuid="_W-ppsMmVEem0y6S3Sa9qJw" value="4"/>
+        <cells uuid="_XGmr0MmVEem0y6S3Sa9qJw" value="5"/>
+      </columns>
+    </children>
+  </logic>
+  <geometry uuid="_Q-BkAcmVEem0y6S3Sa9qJw" deletable="false"
+      name="root">
+    <parentPlugs uuid="_Q-BkAsmVEem0y6S3Sa9qJw" name="ParentPlug"/>
+  </geometry>
+  <displayName uuid="_Q-BkA8mVEem0y6S3Sa9qJw"/>
+</comp:Component>
